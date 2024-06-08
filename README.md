@@ -26,7 +26,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Tickets and Ticket Lifecycle Stages</h2>
+
+- Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
+Ticket examples:
+  - Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+  - Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+  - Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
