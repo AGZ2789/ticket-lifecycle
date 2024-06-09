@@ -28,14 +28,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Tickets and Ticket Lifecycle Stages</h2>
 
-- Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
+- Just practice creating, triaging, and solving tickets. I recommend watching a Youtube video to learn about triaging multiple tickets.
 Ticket examples:
   - Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
   - Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
   - Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 
-![Snipaste_2024-05-17_22-19-12](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/2b97ee67-f93d-4a2c-9505-024f09987775)
+- Open a New Ticket
+
+![Snipaste_2024-05-17_21-58-45](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/453f7694-0fe4-4d37-995f-08309a21f5b4)
 
 ![Snipaste_2024-05-17_22-17-40](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/92d7d695-641a-4a6f-a313-607f8f9f6c79)
 
@@ -48,6 +50,14 @@ Ticket examples:
 ![Snipaste_2024-05-17_22-03-36](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/e88e33ec-3bb8-453a-8832-787e91032b62)
 
 ![Snipaste_2024-05-17_22-03-04](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/0650acfd-504b-462f-9af8-84d24e8bdad0)
+
+- Log in as Jane (Admin)
+  - Update Priority level of a ticket
+  - Resolve tickets
+  - View ticket's action postings to monitor activity from different entities
+  - finalize by observing the closed tickets section
+
+![Snipaste_2024-05-17_22-19-12](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/00bdd556-1530-426d-ad6b-aaee043a969e)
 
 ![Snipaste_2024-05-17_22-26-44](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/2f7fcc5f-6af4-4d8e-a8e5-8b1237a15217)
 
