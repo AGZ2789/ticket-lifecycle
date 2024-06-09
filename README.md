@@ -54,8 +54,8 @@ Ticket examples:
 - Log in as Jane (Admin)
   - Update Priority level of a ticket
   - Resolve tickets
-  - View ticket's action postings to monitor activity from different entities
-  - finalize by observing the closed tickets section
+  - View ticket's action postings to monitor activity from different entities.
+  - Conclude the tutorial by observing the closed tickets section.
 
 ![Snipaste_2024-05-17_22-19-12](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/00bdd556-1530-426d-ad6b-aaee043a969e)
 
