@@ -27,6 +27,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
 <h2>Tickets and Ticket Lifecycle Stages</h2>
 
 - Just practice creating, triaging, and solving tickets. I recommend watching a Youtube video to learn about triaging multiple tickets.
@@ -35,8 +37,11 @@ Ticket examples:
   - Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
   - Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
 - Open a New Ticket
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
 ![Snipaste_2024-05-17_21-58-45](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/453f7694-0fe4-4d37-995f-08309a21f5b4)
 
@@ -52,11 +57,15 @@ Ticket examples:
 
 ![Snipaste_2024-05-17_22-03-04](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/0650acfd-504b-462f-9af8-84d24e8bdad0)
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
 - Log in as Jane (Admin)
   - Update Priority level of a ticket
   - Resolve tickets
   - View ticket's action postings to monitor activity from different entities.
   - Conclude the tutorial by observing the closed tickets section.
+ 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
 ![Snipaste_2024-05-17_22-19-12](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/00bdd556-1530-426d-ad6b-aaee043a969e)
 
@@ -76,6 +85,16 @@ Ticket examples:
 
 ![Snipaste_2024-05-18_11-49-14](https://github.com/AGZ2789/ticket-lifecycle/assets/84995125/ea61ffa6-3b00-41b6-941b-6c30db0673d2)
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
+<h2>Lab Cleanup (DON’T FORGET THIS)</h2>
+
+- Close your Remote Desktop connection
+- Delete the Resource Group(s) created at the beginning of this lab
+- Verify Resource Group Deletion
+
+<h2>Finish</h2>
+
+![](https://i.imgur.com/waxVImv.png)
 
 
